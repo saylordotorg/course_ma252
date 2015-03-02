@@ -1,3 +1,10 @@
+---
+layout: default
+title: "MA252: Introduction to Probability Theory"
+course_description: "A detailed introduction of the fundamentals of probability theory and random processes. Topics incldue sample size, random experiments, outcome spaces, discrete distribution, probability density function, expected values, and conditional probability."
+next: ../../../
+previous: ../Unit04
+---
 **Unit 5: Law of Large Numbers and Central Limit Theorem** <span
 id="5"></span> 
 *In this unit, you will learn about two important theorems of

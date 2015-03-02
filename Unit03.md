@@ -1,3 +1,10 @@
+---
+layout: default
+title: "MA252: Introduction to Probability Theory"
+course_description: "A detailed introduction of the fundamentals of probability theory and random processes. Topics incldue sample size, random experiments, outcome spaces, discrete distribution, probability density function, expected values, and conditional probability."
+next: ../Unit04
+previous: ../Unit02
+---
 **Unit 3: Discrete Distributions** <span id="3"></span> 
 *In this unit, you will learn about four basic discrete probability
 distributions that have widespread applications in engineering and

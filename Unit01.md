@@ -1,3 +1,10 @@
+---
+layout: default
+title: "MA252: Introduction to Probability Theory"
+course_description: "A detailed introduction of the fundamentals of probability theory and random processes. Topics incldue sample size, random experiments, outcome spaces, discrete distribution, probability density function, expected values, and conditional probability."
+next: ../Unit02
+previous: ../Intro
+---
 **Unit 1: Introduction to Probability** <span id="1"></span> 
 *This unit will introduce you to fundamental concepts of probability
 theory. You will learn the definitions of probability, random variables,
