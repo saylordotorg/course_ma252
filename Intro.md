@@ -135,3 +135,4 @@ total of 7 hours) on Monday and Tuesday nights, Subunit 1.2 (a total of
 - [Unit 3](https://legacy.saylor.org/ma252/Unit03/)
 - [Unit 4](https://legacy.saylor.org/ma252/Unit04/)
 - [Unit 5](https://legacy.saylor.org/ma252/Unit05/)
+- [Final Exam](http://saylordotorg.github.io/LegacyExams/MA/MA252/MA252-FinalExam.html), [Answers](http://saylordotorg.github.io/LegacyExams/MA/MA252/MA252-FinalExam-Answers.html)
